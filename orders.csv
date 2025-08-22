@@ -1,0 +1,11 @@
+Order_ID,Customer_name,Product_purchased,Quantity,OrderDate,Price
+O-1001,Amit Kumar,Laptop,2,01-07-2025,75000
+O-1002,Neha Singh,Mouse,5,03-07-2025,800
+O-1003,Rahul Das,Keyboard,3,05-07-2025,1200
+O-1004,Amit Kumar,Monitor,1,09-07-2025,14500
+O-1005,Sonal Jain,Laptop,1,12-07-2025,68000
+O-1006,Amit Kumar,Laptop,3,01-07-2025,31810
+O-1007,Neha Singh,Mouse,5,03-07-2025,31780
+O-1008,Rahul Das,Keyboard,9,05-07-2025,31750
+O-1009,Sharma Ji,Monitor,2,09-07-2025,31720
+O-1010,Sonal Jain,Laptop,1,12-07-2025,31690
